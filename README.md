@@ -1,3 +1,2 @@
 # hello-world
-This is just my tutorial repository
-I like basketball. 
+This is just my tutorial repository. Also, I like basketball. 
